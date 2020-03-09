@@ -4,7 +4,7 @@ Lone worker REST API integration, ok alone
 
 Integrating your application with Ok Alone starts with using the API calls. Most integrations use the primary Ok Alone features such as Check-in, Start shift, End shit and Man down / Call for help.
 
-Here's a list of the Ok Alone API and how to use them:
+<b>Here's a list of the Ok Alone API and how to use them:</b>
 
 Add location for this worker
 POST 
@@ -67,7 +67,7 @@ POST
 Receive shift information for the worker
 POST
 /status/info
-
+(no body required)
 
 
 Learn more about the Ok Alone Lone worker saftey solution at: https://okaloneworker.com/
